@@ -1,6 +1,6 @@
-
 keras 
 flask
 flask_cors
 requests
 opencv-python
+tensorflow

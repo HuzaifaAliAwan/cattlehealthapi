@@ -75,3 +75,6 @@ def predict():
 def hello_world():
     return 'Cattle health Api'
 
+
+if __name__ == '__main__':
+    app.run(debug=True)
